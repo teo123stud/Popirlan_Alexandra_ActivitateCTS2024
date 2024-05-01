@@ -9,7 +9,7 @@ public class WebSite extends  Decorator{
 
     @Override
     public void afiseazaOnline() {
-        System.out.println("In cadrul aplicatiei mobile ati primit diagnosticul "
+        System.out.println("In cadrul aplicatiei web ati primit diagnosticul "
                 + super.getNumeDiagnostic()
                 + " cu simptomele " + super.getSimptome()
                 + " si " + (super.isNecesitaSpitalizare() ? " ": " nu ") +  " aveti nevoie de spitalizare: "+ super.isNecesitaSpitalizare());
