@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Modul 3/Modul 3.iml" filepath="$PROJECT_DIR$/Modul 3/Modul 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul_1/Modul_1.iml" filepath="$PROJECT_DIR$/Modul_1/Modul_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_11/Modul_11.iml" filepath="$PROJECT_DIR$/Modul_11/Modul_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul_2/Modul_2.iml" filepath="$PROJECT_DIR$/Modul_2/Modul_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul_3/Modul_3.iml" filepath="$PROJECT_DIR$/Modul_3/Modul_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul_4/Modul_4.iml" filepath="$PROJECT_DIR$/Modul_4/Modul_4.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Modul_10/Modul_9.iml" filepath="$PROJECT_DIR$/Modul_10/Modul_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul_10.1/Modul_9.1.iml" filepath="$PROJECT_DIR$/Modul_10.1/Modul_9.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Moodul_5/Moodul_5.iml" filepath="$PROJECT_DIR$/Moodul_5/Moodul_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PregatireSuplimentara/PregatireSuplimentara.iml" filepath="$PROJECT_DIR$/PregatireSuplimentara/PregatireSuplimentara.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminare_CTS_2024.iml" filepath="$PROJECT_DIR$/Seminare_CTS_2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/Suplimentar/Suplimentar.iml" filepath="$PROJECT_DIR$/Suplimentar/Suplimentar.iml" />
     </modules>
